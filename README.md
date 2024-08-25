@@ -11,7 +11,7 @@ Exploratory data analysis
 Data visualization using histograms, box plots, etc.
 Identification of variables with missing values
 Handling of categorical and numerical variables and their missing values
-2. House Price EDA
+2. House Price Expolatory data analysis
 File: house_price_eda.ipynb
 Description: This notebook provides exploratory data analysis for house price data, covering similar aspects as the sales analysis but tailored to the house price dataset.
 Key Points:
