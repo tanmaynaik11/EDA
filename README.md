@@ -1,4 +1,4 @@
-Overview
+OVERVIEW
 This repository contains two Jupyter Notebook files: sales_analysis.ipynb and house_price_eda.ipynb. These notebooks provide detailed exploratory data analysis (EDA) for sales data and house price data, respectively.
 
 Contents
